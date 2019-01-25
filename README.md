@@ -16,3 +16,5 @@
 // app.js
 import './components/passport'
 ```
+
+- use the component on your view (bladefile)
