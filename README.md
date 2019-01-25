@@ -5,4 +5,14 @@
 - Laravel Passport
 
 ## Usage
-- Just Copy this on your components folder `resources/js/components` and import it on your app.js 
+
+- `cd resources/js/components`
+
+- `git clone https://github.com/codeitlikemiley/tailwind-passport-components passport`
+
+- import it on your app.js
+
+```
+// app.js
+import './components/passport'
+```
