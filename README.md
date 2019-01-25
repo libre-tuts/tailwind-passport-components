@@ -1,6 +1,7 @@
 # tailwind-passport-components
 
 ## Requirements
+
 - Laravel Passport
 
 |## Usage
