@@ -10,6 +10,10 @@
 
 - `git clone https://github.com/codeitlikemiley/tailwind-passport-components passport`
 
+- `cd passport`
+
+- `cp authorized.blade.php ../../../views/vendor/passport/authorized.blade.php`
+
 - import it on your app.js
 
 ```
